@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> temp/main
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -201,6 +206,10 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> temp/main
+>>>>>>> temp/main
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -875,4 +884,11 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+<<<<<<< HEAD
 >>>>>>> repoA/main
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> repoA/main
+>>>>>>> temp/main
+>>>>>>> temp/main
